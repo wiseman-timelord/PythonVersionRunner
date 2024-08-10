@@ -9,7 +9,7 @@ A project to create some code, to insert into batch scripts, to ensure that the 
 
 # Usage:
 - As I said, do not run this code, it is considered dangerous at this stage of developing scripts that have the potential of altering your registry.
-- The one that does the batch env only could potentially work at this stage, so long as the relating python script uses that form of PYTHON definition. 
+- The one that does the batch env only could potentially work at this stage, so long as the relating python.exe script uses that form of PYTHON definition. 
 
 # Disclaimer:
 - If you run this code, when I advised not to, then that is not the fault of Wiseman-Timelord.
