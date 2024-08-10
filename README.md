@@ -1,5 +1,5 @@
 # PythonVersionRunner
-Status: ALPHA. Conceptual, testing not advised currently, work is currently...
+Status: ALPHA. Conceptual, testing not advised currently, it will potentially break your registry. work is currently...
 - Powershell system folder update script has not been worked on since being created as standalone some time ago. Needs analysis, then decide direction for streamlining and coordination with the batch.
 - Batch search and launch code, analyze and determine if everything looks correct, consolidate sections, improve comments.
 - Dark cube must be safe, setup second computer for windows, and test there for this project .
